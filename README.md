@@ -6,7 +6,7 @@ I am Yassine Hakam, a student in management and economics with a strong interest
 
 ## 🚀 Ongoing Projects
 
-For now, my GitHub is under construction. I will soon be uploading projects related to my training in IBM Data Science Professional Certificate and Google Data Analytics Professional Certificate.
+For now, my GitHub is under construction. I will soon be uploading projects related to my training in IBM Data Science Professional Certificate and Google Data Analytics Professional Certificate and some other personnal Projects.
 
 ## 🛠️ Skills
 
