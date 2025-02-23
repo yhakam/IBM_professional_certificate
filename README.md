@@ -1,25 +1,31 @@
-# 👋 Welcome to my GitHub!
+# 📌 Overview
 
-## 📌 About Me
+The IBM Data Science Professional Certificate is a comprehensive program that covers fundamental and advanced topics in data science. This certification has equipped me with practical skills in data analysis, machine learning, and programming using Python.
 
-I am Yassine Hakam, a student in management and economics with a strong interest in data science, data analysis, and artificial intelligence. Currently undergoing training, I am exploring and developing my skills in Python, SQL, R, and Machine Learning.
+## 🛠️ Skills Acquired
 
-## 🚀 Ongoing Projects
+Programming: Python, Jupyter Notebook
 
-For now, my GitHub is under construction. I will soon be uploading projects related to my training in IBM Data Science Professional Certificate and Google Advanced Data Analytics Professional Certificate and some other personnal Projects.
+Data Manipulation & Visualization: Pandas, Matplotlib, Seaborn
 
-## 🛠️ Skills
+Machine Learning: Scikit-learn, Model Development & Evaluation
 
-Languages: Python, R, SQL
+SQL & Databases: Data querying and management
 
-Tools: Jupyter Notebook, Git, Power BI, Excel
+Big Data & Cloud Computing: IBM Cloud, Watson Studio
 
-Fields: Data Science, Data Analysis, Machine Learning
+## 📂 Projects
 
-## 📌 Coming Soon
+Data Analysis with Python: Exploratory Data Analysis (EDA) on real-world datasets
 
-🔹 Data Analysis Projects 📊🔹 Machine Learning Models 🤖🔹 Interactive Notebooks 📓
+Machine Learning Models: Implementing classification and regression algorithms
 
-## 📫 Contact Me
+Capstone Project: A hands-on project applying all learned techniques
 
-📧 Email: yassinehakam@outlook.com 🔗 LinkedIn: https://www.linkedin.com/in/yhakam/ 🔗 GitHub: github.com/yhakam
+## 🚀 Next Steps
+
+Advanced Machine Learning and Deep Learning
+
+Real-world applications of Data Science in industry
+
+Building a portfolio of data-driven projects
